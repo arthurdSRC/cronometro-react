@@ -4,10 +4,14 @@
 
 ## Funcionalidades 
 
-### Botão "Iniciar" que inicia o cronômetro.
+#### Botão "Iniciar" que inicia o cronômetro.
 
-### Botão "Pausar" que pausa o cronômetro.
+#### Botão "Pausar" que pausa o cronômetro.
 
-### Botão "Zerar" que reinicia o cronômetro.
+#### Botão "Zerar" que reinicia o cronômetro.
 
-### Contador é atualizado a cada 1 segundo 
+#### Contador é atualizado a cada 1 segundo 
+
+## Preview 
+
+

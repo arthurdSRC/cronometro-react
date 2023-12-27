@@ -1,0 +1,26 @@
+.container {
+  width: 386px;
+  height: 635px;
+  border-radius: 16px;
+  background-color: #131E2F;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 80px;
+
+
+  h1 {
+
+    font-size: 32px;
+    font-weight: 500;
+
+  }
+
+  .flex {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+  }
+}

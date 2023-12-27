@@ -1,11 +1,12 @@
+import { Cronometro } from "./components/Cronometro/Cronometro"
 
 
 function App() {
- 
+
 
   return (
     <>
-     <h1>teste</h1>
+      <Cronometro />
     </>
   )
 }

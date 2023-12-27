@@ -1,0 +1,18 @@
+.display {
+  width: 223px;
+  height: 223px;
+  border-radius: 50%;
+  background-color: #AABCD0;
+  border: 7px solid #01A5B1;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  span {
+    color: #131E2F;
+    font-size: 32px;
+    font-weight: 400;
+
+  }
+}
