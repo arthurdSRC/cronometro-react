@@ -13,5 +13,5 @@
 #### Contador é atualizado a cada 1 segundo 
 
 ## Preview 
-
+<img src="./public/previewcalc.PNG">
 
